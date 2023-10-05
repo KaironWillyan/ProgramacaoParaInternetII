@@ -1,0 +1,10 @@
+.section {
+    padding: 10px;
+    border: 1px solid wheat;
+}
+
+.section-fancy {
+    padding: 10px;
+    border: 1px dashed wheat;
+    margin: 10%;
+}
